@@ -10,10 +10,10 @@ const Shop = () => {
       {/* <!-- Navbar --> */}
       <Navbar></Navbar>
       {/* <!-- Navbar ends --> */}
-      <main class="py-16">
-        <div class="productWrapper">
+      <main className="py-16">
+        <div className="productWrapper">
           {/* <!-- products container --> */}
-          <div class="productContainer" id="lws-productContainer">
+          <div className="productContainer" id="lws-productContainer">
             {/* <!-- product item --> */}
             <Product></Product>
             {/* <!-- product item ends --> */}
